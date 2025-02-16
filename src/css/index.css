@@ -403,6 +403,7 @@ body, html{
 .second--canvas .content h2{
 	position: relative;
 	margin:0;
+	font-size: 30px;
 }
 
 .second--canvas .content h2:nth-child(1){
