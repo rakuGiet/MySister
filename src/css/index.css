@@ -604,8 +604,8 @@ body, html{
 
 .third--canvas .center--line img{
 	position: absolute;
-	width:auto;
-	height:auto;
+	width:80px;
+	height:80px;
 	top:50%;
 	transform:translateY(-50%) scale(0);
 	opacity: 0;
